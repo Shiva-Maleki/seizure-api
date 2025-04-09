@@ -85,7 +85,7 @@ This project is inspired by ongoing research and three published papers:
 ## 👤 Author
 
 Shiva — Ph.D. in Electrical Engineering, AI for Healthcare Researcher  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@Shiva-Maleki](https://github.com/Shiva-Maleki)
 
 ---
 
